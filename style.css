@@ -1,0 +1,71 @@
+*{
+    padding: 0;
+    margin: 0;
+    box-sizing: border-box;
+}
+
+body{
+    background-color: black;
+}
+
+.navbar-dark{
+    background-color: black !important;
+}
+
+#logo{
+    width: 100px;
+}
+
+.kids{
+    font-size: 13px;
+}
+
+.icon{
+    font-size: 20px;
+    color: white;
+}
+
+.icon-arrow{
+    font-size: 12px;
+    color: white;
+}
+
+.avatar{
+    width: 30px;
+}
+
+.movie{
+  cursor: pointer;
+  width: 215px;
+}
+
+.movie:hover{
+    scale: 1.3;
+}
+
+.tv-shows{
+    font-size: 25px;
+}
+
+.icon-2{
+    font-size: 20px;
+    color: white;
+    padding: 2px;
+}
+
+.icon-3{
+    font-size: 25px;
+}
+
+a{
+    text-decoration: none;
+}
+
+.footer-container{
+    width: 700px;
+}
+
+.links{
+    font-size: 12px;
+}
+
